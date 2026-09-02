@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hupu496.github.io/ccs_app",
+  "homepage": " https://hupu496.github.io/ccs_app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
